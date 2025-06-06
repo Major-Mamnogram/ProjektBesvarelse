@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=name\ phone
+comment1.target=Customer(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=int\ getPhone()
+comment5.params=phone
+comment5.target=void\ setPhone(int)
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ProductController
+comment1.params=
+comment1.target=ProductController()
+comment2.params=productNo
+comment2.target=byggemarket.model.Product\ findProduct(int)
+comment3.params=product
+comment3.target=void\ addProduct(byggemarket.model.Product)
+numComments=4

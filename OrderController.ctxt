@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=OrderController
+comment1.params=
+comment1.target=OrderController()
+comment2.params=
+comment2.target=byggemarket.model.Order\ createOrder()
+comment3.params=name\ phone
+comment3.target=byggemarket.model.Customer\ setCustomer(java.lang.String,\ int)
+comment4.params=productID\ qty
+comment4.target=byggemarket.model.OrderLine\ addOrderLine(int,\ int)
+comment5.params=orderID
+comment5.target=byggemarket.model.Order\ endOrder(int)
+comment6.params=delivered
+comment6.target=void\ setDelivered(boolean)
+comment7.params=productNO\ description\ category\ sellingPrice\ costPrice
+comment7.target=byggemarket.model.Product\ adminAddProduct(int,\ java.lang.String,\ java.lang.String,\ int,\ int)
+numComments=8

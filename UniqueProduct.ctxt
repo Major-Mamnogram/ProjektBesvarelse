@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UniqueProduct
+comment1.params=productNo\ description\ category\ sellingPrice\ costPrice\ serialNumber
+comment1.target=UniqueProduct(int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getSerialNumber()
+comment3.params=serialNumber
+comment3.target=void\ setSerialNumber(java.lang.String)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CustomerController
+comment1.params=
+comment1.target=CustomerController()
+comment2.params=name\ phone
+comment2.target=byggemarket.model.Customer\ findCustomer(java.lang.String,\ int)
+comment3.params=name\ phone
+comment3.target=byggemarket.model.Customer\ saveCustomer(java.lang.String,\ int)
+numComments=4

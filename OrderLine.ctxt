@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OrderLine
+comment1.params=p\ qty
+comment1.target=OrderLine(Product,\ int)
+comment2.params=
+comment2.target=Product\ getProduct()
+comment3.params=p
+comment3.target=void\ setProduct(Product)
+comment4.params=
+comment4.target=int\ getQuantity()
+comment5.params=quantity
+comment5.target=void\ setQuantity(int)
+numComments=6

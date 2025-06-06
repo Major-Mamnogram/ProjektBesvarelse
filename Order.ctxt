@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Order
+comment1.params=customer
+comment1.target=Order(Customer)
+comment10.params=orderID
+comment10.target=void\ setOrderID(int)
+comment11.params=
+comment11.target=int\ getOrderID()
+comment2.params=
+comment2.target=int\ getStaffID()
+comment3.params=staffID
+comment3.target=void\ setStaffID(int)
+comment4.params=
+comment4.target=boolean\ isDelivered()
+comment5.params=delivered
+comment5.target=void\ setDelivered(boolean)
+comment6.params=
+comment6.target=boolean\ getOrderStatus()
+comment7.params=ended
+comment7.target=void\ setOrderStatus(boolean)
+comment8.params=product\ qty
+comment8.target=OrderLine\ addOrderLine(Product,\ int)
+comment9.params=
+comment9.target=java.util.List\ getOrderLines()
+numComments=12

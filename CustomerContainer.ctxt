@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CustomerContainer
+comment1.params=
+comment1.target=CustomerContainer()
+comment2.params=
+comment2.target=CustomerContainer\ getInstance()
+comment3.params=name\ phone
+comment3.target=Customer\ findCustomer(java.lang.String,\ int)
+comment4.params=customer
+comment4.target=void\ saveCustomer(Customer)
+numComments=5
